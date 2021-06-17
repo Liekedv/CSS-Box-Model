@@ -1,0 +1,53 @@
+body {
+  color: #3b83bd;
+}
+
+header {
+  border: 3px solid springgreen;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+main {
+  border: 3px solid steelblue;
+  margin: 10px;
+  padding: 10px;
+}
+
+nav {
+  border: 3px solid orange;
+  margin: 10px;
+  padding: 10px;
+}
+
+footer {
+  border: 3px solid tan;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#green-background {
+  background-color: #f0cee9;
+  margin: auto;
+}
